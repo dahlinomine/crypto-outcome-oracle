@@ -1,0 +1,10 @@
+{
+  "name": "crypto-outcome-oracle",
+  "version": "0.1.0",
+  "description": "Standardized interface for resolving crypto price prediction markets",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
